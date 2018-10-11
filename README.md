@@ -1,7 +1,7 @@
-#Tensorflow and DeepLearning Notebook
+# Tensorflow and DeepLearning Notebook
 This repository is created to store the notebooks regarding Deep-learning models using tensorflow.
 
-##Tensorflow Notes
+## Tensorflow Notes
 Basic concepts and functions of tensorflow:
 ### Basics
 - Graph and nodes
@@ -13,17 +13,17 @@ Basic concepts and functions of tensorflow:
 - Embedding visualisation
 
 
-##Auto-encoders
+## Auto-encoders
 To replicate different auto-encoders from different papers and record the technical details.
-###VAE
+### VAE
 - General variational encoder using mnist.
 
-###Convolution Encoder
+### Convolution Encoder
 - Create a conolution encoder with deconvolution decoder
 
 ### Convolution VAE
 
 
-##NLP technologies
-###Embeddings
+## NLP technologies
+### Embeddings
 
